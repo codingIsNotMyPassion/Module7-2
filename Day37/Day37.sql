@@ -1,5 +1,5 @@
-create database guvi_class1;
-use guvi_class1;
+create database guvi_zen_class;
+use guvi_zen_class;
 
 CREATE TABLE users (user_id int,student_name varchar(50),mentor_name varchar(50));
 CREATE TABLE codekata (user_id int, student_name varchar(50), problems_solved int);
